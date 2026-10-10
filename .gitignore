@@ -1,3 +1,4 @@
 data/
 .venv/
 dataset/caltech101/
+gpt_data/
